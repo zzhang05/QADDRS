@@ -1,5 +1,7 @@
 # Codes CVPR2025 paper ''Improving the Training of Data-Efficient GANs via Quality Aware Dynamic Discriminator Rejection Sampling''
 
+We have provided the codes of QADDRS with StyleGAN2 + Diff-Augment on low-shot datasets. The details are shown as follows.
+
 # Dataset
 
 The low-shot datasets can be found in [[link]](https://drive.google.com/file/d/1rWqaVlms55604jrP5t9ShacL6mZKWL8f/view?usp=sharing)
